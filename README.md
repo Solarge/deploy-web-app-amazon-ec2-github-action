@@ -1,2 +1,1 @@
-# deploy-a-web-app-to-amazon-ec2-using-github-action
-How to deploy a web app to amazon ec2 using github action
+# deploy-web-app-amazon-ec2-github-action
